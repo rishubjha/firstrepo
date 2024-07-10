@@ -1,2 +1,2 @@
 ## First Git Repo by Rishub Jha
-## Testing the githb actions
+## Testing the github actions
